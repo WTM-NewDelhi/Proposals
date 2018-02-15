@@ -20,10 +20,14 @@ _Time that your talk/workshop would take_
 
 _Beginner/Intermediate/Advanced_
 
-**Resources**
+**Previous Experience/Sample ppt**
 
-_Add links to resources which can further be used by the attendees_
+_Add links to any sample presentaions given/mention any past experience you have as a speaker, leave blank incase not applicable_
 
 **Speaker Bio**
 
 _Write a brief decription about you here_
+
+**How will it help developers/students**
+
+_Write a brief description as to why/how your talk benefit the budding developers or professionals_
