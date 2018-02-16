@@ -6,6 +6,10 @@ _A brief overview of what your talk is about_
 
 _Write your talk/workshop description here_
 
+**Format**
+
+_Codelab/Talk Session/Fun Activity_
+
 **Pre-requisites**
 
 - _Required skills_
@@ -27,6 +31,10 @@ _Add links to any sample presentaions given/mention any past experience you have
 **Speaker Bio**
 
 _Write a brief decription about you here_
+
+**LinkedIn/Twitter Profile**
+
+_Add links to your LinkedIn or Twitter Profile_
 
 **How will it help developers/students**
 
