@@ -1,5 +1,4 @@
 # Proposals
--------------------------------------------
 Propose your talks/workshops for WTM meetups and events here.
 
 **Format for proposal**
