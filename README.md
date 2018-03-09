@@ -7,6 +7,6 @@ To propose a talk, simply create a github issue [here](https://github.com/WTM-Ne
 
 Sample Proposal - [Click](https://github.com/WTM-NewDelhi/Proposals/issues/1)
 
-**Deadline for IWD - 1st March**
+**Deadline for IWD - 15th March**
 
 Though you can submit proposals for future events even after this deadline.
